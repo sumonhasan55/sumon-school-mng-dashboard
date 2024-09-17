@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+# Sumon School Management Dashboard
 
 ## Getting Started
 
@@ -22,8 +22,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Lama Dev Youtube Channel](https://youtube.com/lamadev) 
-- [Next.js](https://nextjs.org/learn)"# sumon-school-mng-dashboard" 
 "# sumon-school-mng-dashboard" 
 "# sumon-school-mng-dashboard" 
 "# sumon-school-mng-dashboard" 
